@@ -26,5 +26,6 @@ public class App {
 
         System.out.println("======== Grafo ========");
         gp.printGraph();
+        System.out.println("Mateo Namicela");
     }
 }
